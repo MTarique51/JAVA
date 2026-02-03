@@ -11,3 +11,4 @@ public class Ternary_Operator {
         System.out.println(type);
     }
 }
+

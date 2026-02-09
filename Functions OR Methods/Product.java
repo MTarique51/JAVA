@@ -9,5 +9,6 @@ public class Product {
         int b = 5;
        int prod = Multiply(a,b);
        System.out.println("a * b = " + prod);
+       
     }
 }

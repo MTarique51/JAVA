@@ -9,6 +9,8 @@ public class Factorial_Of_Number {
         return f;
     }
     public static void main(String[] args) {
-            System.out.println(factorial(4));
+
+            System.out.print("Factorial of The Given Number : ");
+            System.out.println(factorial(5));
     }
 }

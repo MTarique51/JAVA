@@ -19,7 +19,6 @@ public class prime_OR_Not {
     // }
 
     // Prime Or Not (Optimised)//
-
      if(n == 2){
             return true;
         }

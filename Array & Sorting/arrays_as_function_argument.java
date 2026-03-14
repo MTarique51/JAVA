@@ -10,7 +10,7 @@ public class arrays_as_function_argument
     }
     public static void main(String[] args)
     {
-        int marks[] = {97,98,99};
+        int marks[] = {96,98,99};
         update(marks);
     
         // This is for printing the Number //

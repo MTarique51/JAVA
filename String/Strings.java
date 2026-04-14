@@ -17,7 +17,7 @@ public class Strings
    {
 
         // Tp Find the length
-        String fullName = "Afra Reyaz";
+        String fullName = "Miss Afra Reyaz ";
         System.out.println("Length of the String : " + fullName.length());           
 
         // For Concatination
@@ -40,6 +40,4 @@ public class Strings
         printLetters("by Calling the Function : " + FullName);
     }
 }
-
-
-
+  

@@ -39,7 +39,14 @@
     }
     public static void main(String[] args) 
     {
-        String path = "WNEENESENNN";
-        System.out.println(getShortestPath(path));
+        String path1 = "WNEENESENNN";
+        String path2 = "NEWS";
+        String path3 = "NS";
+        String path4 = "NNNNNNNNNNN";
+        
+        System.out.println("Shoertesr Path for 1 : "+getShortestPath(path1));
+        System.out.println("Shoertesr Path for 2 : "+getShortestPath(path2));
+        System.out.println("Shoertesr Path for 3 : "+getShortestPath(path3));
+        System.out.println("Shoertesr Path for 4 : "+getShortestPath(path4));
     }
 }

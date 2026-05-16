@@ -5,13 +5,13 @@ public class Calculator_Switch {
         
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter Value Of a :");
+        System.out.print("Enter Value Of "a" :");
         float a = sc.nextInt();
 
         System.out.print("Enter Operator :");
         char operator = sc.next().charAt(0);
 
-        System.out.print("Enter Value Of b :");
+        System.out.print("Enter Value Of "b" :");
         float b = sc.nextInt();
 
         switch (operator) {

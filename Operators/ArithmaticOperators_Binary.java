@@ -8,10 +8,10 @@ public class ArithmaticOperators_Binary  {
         System.out.print("Enter 2nd Number :");
         int B = sc.nextInt(); 
         
-        System.out.println("Addition :" + (A+B));
-        System.out.println("Difference :" + (A-B));
-        System.out.println("Product :" + (A*B));
-        System.out.println("Quotient :" + (A/B));
+        System.out.println("Addition : " + (A+B));
+        System.out.println("Difference : " + (A-B));
+        System.out.println("Product : " + (A*B));
+        System.out.println("Quotient : " + (A/B));
         System.out.println("Modulo(Remainder) :" + (A%B));
     }
 }

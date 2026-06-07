@@ -1,9 +1,9 @@
 public class Assignment_Operaors {
     public static void main(String[] args) {
 
-        int A = 10;
+        int A = 11;
         //A = A+10;
-        A += 10;
+        A += 11;
         System.out.println(A);
 
         int B = 15;

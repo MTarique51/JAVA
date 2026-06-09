@@ -19,8 +19,8 @@ public class Assignment_Operaors {
 
         
         int D = 20;
-        //D = D/4;
-        D /= 4;
+        //D = D/5;
+        D /= 5;
         System.out.println(D);
     }
 }

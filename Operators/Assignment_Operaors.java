@@ -12,9 +12,9 @@ public class Assignment_Operaors {
         System.out.println(B);
 
         
-        int C = 5;
+        int C = 6;
         //C = C*5;
-        C *= 5;
+        C *= 6;
         System.out.println(C);
 
         
